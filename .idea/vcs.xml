@@ -4,5 +4,7 @@
     <mapping directory="$PROJECT_DIR$" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/DZ_19" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/SkyPro_hw19" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/flask-hard-blank" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/lesson17_project_source" vcs="Git" />
   </component>
 </project>
